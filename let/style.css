@@ -1,0 +1,18 @@
+body {
+    font-family: "Sacco";
+    background-color: #fff099;
+    color: #ffca1a;
+}
+h1 {
+    font-size: 36px; /* Tamanho da fonte */
+    text-align: center; /* Alinhamento do texto */
+  }
+  h2 {
+    font-size: 40px; /* Tamanho da fonte */
+    text-align: center; /* Alinhamento do texto */
+  }
+  .btn{
+    place-items: center;
+    margin: 10px;
+    width: 800px; /* Largura do botão */
+    }
